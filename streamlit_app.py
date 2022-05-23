@@ -13,7 +13,7 @@ import streamlit as st
 import time
 import tweepy
 
-st.set_page_config(page_icon="🐤", page_title="Twitter Sentiment Analyzer")
+st.set_page_config(page_icon="🐤", page_title="Twitter Sentiment Analyzer Tool")
 
 st.write('<base target="_blank">', unsafe_allow_html=True)
 
